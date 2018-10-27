@@ -1,0 +1,10 @@
+export const EMAIL_CHANGED = 'email_changed';
+export const PASSWORD_CHANGED = 'passwordChanged';
+export const LOGIN_USER_SUCCESS = 'login_user_success';
+export const LOGIN_USER_FAIL = 'login_user_fail';
+export const LOGIN_USER = 'login_user';
+export const SIGNUP_USER_SUCCESS = 'signup_user_success';
+export const SIGNUP_USER_FAIL = 'signup_user_fail';
+export const ACTION_USERS_LIST_SUCCESS = 'ACTION_USERS_LIST_SUCCESS'
+export const ACTION_USERS_LIST_FAIL = 'ACTION_USERS_LIST_FAIL'
+export const ACTION_USERS_LIST = 'ACTION_USERS_LIST'
